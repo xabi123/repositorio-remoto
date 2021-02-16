@@ -3,4 +3,9 @@ body {
 	background-color: #ccc;
 	font-weight: bold;
 	color: blue;
+	text-align: center;
+}
+
+#centrar-imagen{
+	text-align: center;
 }
